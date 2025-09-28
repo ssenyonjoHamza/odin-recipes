@@ -1,5 +1,5 @@
 # odin-recipes
-This website is all about different kinds of ingredients and steps involved in making differeb=nt kinds of recipes
+This website is all about different kinds of ingredients and steps involved in making different kinds of recipes
 
 Banana bread Photo by Kezia Lynn: (https://www.pexels.com/photo/a-person-holding-a-slice-of-banana-bread-6205754/).
 
